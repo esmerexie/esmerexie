@@ -9,7 +9,8 @@ You can reach me by email : rexieesmeralda@icloud.com / [Linkedin](https://www.l
 <details>
  <summary><h3>👨‍💻 Rexie's Coding Journey</h3></summary>
    I started my coding journey after leaving the U.S Navy. Although it is a very lengthy story, in short I now wanted to pursue a career that is more inline of my interests which is becoming a Software Developer. With little to no coding knowledge I sought for guidance and before applying to colleges to pursuit my degree I have found a Coding BootCamp named CodeFellows. From there I started from the ground up and it brought me to where I am today. I am passionate of the technology that is being built and the knowledge that goes behind the scenes and wish that one day I'll be able to contribute to that technology.
-   
+</details>
+
 #
   
 ### 🧰 Languages and Tools
