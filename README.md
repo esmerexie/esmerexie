@@ -1,9 +1,10 @@
 # Hi, I’m Rexie Esmeralda
-- I am intersested in learning how to code just like all of you!
-- 🌱 I’m currently learning how to use Github 
-- 💞️ I’m looking to collaborate on ...
-- You can reach me by email : rexieesmeralda@icloud.com / [Linkedin](https://www.linkedin.com/in/rexieesmeralda/)
+
+I am a Software Developer hoping to break into the tech world!
+
+You can reach me by email : rexieesmeralda@icloud.com / [Linkedin](https://www.linkedin.com/in/rexieesmeralda/)
   
+#
   
 ### 🧰 Languages and Tools
 
