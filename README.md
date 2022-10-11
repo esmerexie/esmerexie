@@ -19,7 +19,7 @@
 
 #
 
-![Rexie's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmerexie&show_icons=true&theme=radical)
+![Rexie's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmerexie&show_icons=true&theme=moltack)
 
 <!---
 esmerexie/esmerexie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
