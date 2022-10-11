@@ -1,5 +1,8 @@
 # Hi, I’m Rexie Esmeralda
 
+![githubgif](https://user-images.githubusercontent.com/101059597/195010535-ea5a704b-af4f-4945-8f55-3e676474ef5c.gif)
+
+
 I am a Software Developer hoping to break into the tech world!
 
 You can reach me by email : rexieesmeralda@icloud.com / [Linkedin](https://www.linkedin.com/in/rexieesmeralda/)
