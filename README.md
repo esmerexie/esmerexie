@@ -6,7 +6,7 @@ I am a Software Developer hoping to break into the tech world!
 
 Currently going to College pursuing my BA in Computer Science.
 
-You can reach me by email : esmeraldarexie@gmail.com / [Linkedin](https://www.linkedin.com/in/rexieesmeralda/)
+You can reach me by : esmeraldarexie@gmail.com / [Linkedin](https://www.linkedin.com/in/rexieesmeralda/)
   
 #
 
