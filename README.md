@@ -3,6 +3,7 @@
 ![githubREADME](https://user-images.githubusercontent.com/101059597/195011479-11e15a30-2017-487c-bfa5-3729a15ae747.gif)
 
 I am a Software Developer hoping to break into the tech world!
+Currently going to College pursuing my BA in Computer Science.
 
 You can reach me by email : rexieesmeralda@icloud.com / [Linkedin](https://www.linkedin.com/in/rexieesmeralda/)
   
