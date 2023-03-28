@@ -33,7 +33,7 @@ You can reach me by : esmeraldarexie@gmail.com / [Linkedin](https://www.linkedin
 
 ### 📊 Stats
 
-![Rexie's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmerexie&show_icons=true&theme=moltack)
+![Rexie's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmerexie&show_icons=true&theme=onedark)
 
 <!---
 esmerexie/esmerexie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
